@@ -3,8 +3,6 @@ Translinx is a project in which we train our model to translate small English se
 
 Acknowledgement:
 
-https://youtu.be/iCwMQJnKk2c?si=HbypFWKHR93jhMwN
-
 https://www.coursera.org/learn/machine-learning
 
 https://www.coursera.org/learn/convolutional-neural-networks
@@ -15,3 +13,4 @@ https://www.coursera.org/specializations/deep-learning
 
 https://www.geeksforgeeks.org/audio-recognition-in-tensorflow/
 
+https://youtu.be/iCwMQJnKk2c?si=HbypFWKHR93jhMwN
